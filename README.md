@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@xsilvio](https://medium.com/@xsilvio)
 
-- 📫 How to reach me [https://www.linkedin.com/in/xsilvio/) 
+- 📫 How to reach me https://www.linkedin.com/in/xsilvio/
 
 
 <h3 align="left">Connect with me:</h3>
