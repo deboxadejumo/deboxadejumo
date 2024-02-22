@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Debo Adejumo</h1>
+<h1 align="center">Hi 👋, I'm Debo </h1>
 <h3 align="center">Data Analyst - Data Scientist who constantly seeks out innovative solutions to everyday technical problems.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/debo-adejumo/home](https://sites.google.com/view/debo-adejumo/home)
 
 - 📝 I regularly write articles on [https://medium.com/@xsilvio](https://medium.com/@xsilvio)
 
-- 📫 How to reach me **adejumoadedayo5@gmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/xsilvio/) 
 
-- 📄 Know about my experiences [https://sites.google.com/view/debo-adejumo/home](https://sites.google.com/view/debo-adejumo/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
