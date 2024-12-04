@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/debo-adejumo/home](https://sites.google.com/view/debo-adejumo/home)
 
-- 📝 I regularly write articles on [https://medium.com/@xsilvio](https://medium.com/@xsilvio)
+- 📝 I regularly write articles on [(https://medium.com/@deboxadejumo)]
 
-- 📫 How to reach me https://www.linkedin.com/in/xsilvio/
+- 📫 How to reach me [https://www.linkedin.com/in/xsilvio/](https://www.linkedin.com/in/deboxadejumo/)
 
 
 <h3 align="left">Connect with me:</h3>
