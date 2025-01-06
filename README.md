@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debo </h1>
-<h3 align="center">Data Analyst - Data Scientist who constantly seeks out innovative solutions to everyday technical problems.</h3>
+<h3 align="center">Data Analyst - Data Scientist who constantly seeks innovative solutions to everyday technical problems.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deboxadejumo](https://github.com/deboxadejumo)
 
-- 📝 I regularly write articles on [(https://medium.com/@deboxadejumo)](https://medium.com/@deboxadejumo)
+- 📝 I regularly write articles on [https://medium.com/@deboxadejumo](https://medium.com/@deboxadejumo)
 
-- 📫 How to reach me [https://www.linkedin.com/in/xsilvio/](https://www.linkedin.com/in/deboxadejumo/)
+- 📫 How to reach me [https://www.linkedin.com/in/deboxadejumo/](https://www.linkedin.com/in/deboxadejumo/)
 
 
 <h3 align="left">Connect with me:</h3>
