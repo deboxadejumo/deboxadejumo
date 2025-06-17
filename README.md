@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debo </h1>
-<h3 align="center">Data Analyst - Data Scientist who constantly seeks innovative solutions to everyday technical problems.</h3>
+<h3 align="center">I constantly seek innovative solutions to everyday technical problems.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deboxadejumo](https://github.com/deboxadejumo)
 
