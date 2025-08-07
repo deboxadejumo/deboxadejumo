@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/deboxadejumo/](https://www.linkedin.com/in/deboxadejumo/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> </h3>
 <p align="left">
 </p>
 
